@@ -16,6 +16,5 @@ cd test-signer-service
 Running the Service
 Execute the following command in the project root directory:
 
-go
-go run main.go
+
 This will start the service on localhost:8080.
